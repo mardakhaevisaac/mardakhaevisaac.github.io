@@ -1,0 +1,25 @@
+body{
+   background: url(https://vsthemes.org/uploads/posts/2018-09/1581997819_black-wood_vsthemes_ru-21.jpg);
+
+}
+p,a,h2,h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-size: 25px;
+
+}
+
+}
+a {
+
+    color: #ffffff; /* Цвет обычной ссылки */
+   }
+   a:visited {
+    color: #ffffff; /* Цвет посещенной ссылки */
+   }
+#head{
+    opacity: 0.8; /* Значение прозрачности */
+}
+a{
+  text-decoration:none; /* Отменяем подчеркивание у ссылки */
+}
